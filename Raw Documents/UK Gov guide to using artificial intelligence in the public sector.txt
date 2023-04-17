@@ -1,0 +1,50 @@
+AI has the potential to change the way we live and work. Embedding AI across all sectors has the potential to create thousands of jobs and drive economic growth. By one estimate, AI’s contribution to the United Kingdom could be as large as 5% of GDP by 2030.
+
+A number of public sector organisations are already successfully using AI for tasks ranging from fraud detection to answering customer queries.
+
+The potential uses for AI in the public sector are significant, but have to be balanced with ethical, fairness and safety considerations.
+organisation leads who want to understand the best ways to use AI.
+delivery leads who want to evaluate if AI can meet user needs. Recognising AI’s potential, the government’s Industrial Strategy White Paper placed Artificial Intelligence and Data as one of 4 Grand Challenges, supported by the £950m AI Sector Deal.
+
+The government has set up 3 new bodies to support the use of AI, build the right infrastructure and facilitate public and private sector adoption of these technologies. These 3 new bodies are the AI Council which will be an expert committee providing high-level leadership on implementing the AI Sector Deal.
+Office for AI which works with industry, academia and the third sector to coordinate and oversee the implementation of the UK’s AI strategy. Centre for Data Ethics and Innovation which identifies the measures needed to make sure the development of AI is safe, ethical and innovative. The government has also set up 2 funds to support the development and uptake of AI, the GovTech Catalyst to help public sector bodies take advantage of emerging technologies
+Regulators’. Pioneer Fund to help regulators promote cutting-edge regulatory practices when developing emerging technologies. At its core, AI is a research field spanning philosophy, logic, statistics, computer science, mathematics, neuroscience, linguistics, cognitive psychology and economics.
+
+AI can be defined as the use of digital technology to create systems capable of performing tasks commonly thought to require intelligence.
+
+AI is constantly evolving, but generally it involves machines using statistics to find patterns in large amounts of data.
+is the ability to perform repetitive tasks with data without the need for constant human guidance. This guidance mostly discusses machine learning. Machine learning is a subset of AI, and refers to the development of digital systems that improve their performance on a given task over time through experience.
+
+Machine learning is the most widely-used form of AI, and has contributed to innovations like self-driving cars, speech recognition and machine translation. Recent advances in machine learning are the result of improvements to algorithms.
+increases in funding.
+huge growth in the amount of data created and stored by digital systems.
+increased access to computational power and the expansion of cloud computing. Machine learning can be supervised learning which allows an AI model to learn from labelled training data, for example training an AI model to help tag content on GOV uk.
+unsupervised learning which is training an AI algorithm to use unlabelled and unclassified information.
+reinforcement learning which allows an AI model to learn as it performs a task.
+AI can benefit the public sector in a number of ways. For example, it can provide more accurate information, forecasts and predictions leading to better outcomes - for example more accurate medical diagnoses.
+produce a positive social impact by using AI to provide solutions for some of the world’s most challenging social problems.
+simulate complex systems to experiment with different policy options and spot unintended consequences before committing to a measure.
+improve public services - for example personalising public services to adapt to individual circumstances.
+automate simple, manual tasks which frees staff up to do more interesting work. 
+AI is not a general purpose solution which can solve every problem.
+
+Current applications of AI focus on performing narrowly defined tasks. AI generally cannot be imaginative.
+perform well without a large quantity of relevant, high quality data.
+infer additional context if the information is not present in the data.
+Even if AI can help you meet some user needs, simpler solutions may be more effective and less expensive. For example, optical character recognition technology can extract information from scans of passports. However, a digital form requiring manual input might be more accurate, quicker to build, and cheaper. You’ll need to investigate alternative mature technology solutions thoroughly to check if this is the case.
+
+With an AI project you should consider a number of factors, including AI ethics and safety. These factors span safety, ethical, legal and administrative concerns and include data quality - the success of your AI project depends on the quality of your data.
+fairness - are the models trained and tested on relevant, accurate, and generalisable datasets and is the AI system deployed by users trained to implement them responsibly and without bias.
+accountability - consider who is responsible for each element of the model’s output and how the designers and implementers of AI systems will be held accountable.
+privacy - complying with appropriate data policies, for example the General Data Protection Regulations (GDPR) and the Data Protection Act 2018.
+explainability and transparency - so the affected stakeholders can know how the AI model reached its decision.
+costs - consider how much it will cost to build, run and maintain an AI infrastructure, train and educate staff and if the work to install AI may outweigh any potential savings. 
+You’ll need to make sure your AI system is compliant with General Data Protection Regulation (GDPR) and the Data Protection Act 2018 (DPA 2018), including the points which relate to automated decision making. We recommend discussing this with legal advisors.
+
+Automated decisions in this context are decisions made without human intervention, which have legal or similarly significant effects on ‘data subjects’. For example, an online decision to award a loan, or a recruitment aptitude test which uses pre-programmed algorithms.
+
+If you want to use automated processes to make decisions with legal or similarly significant effects on individuals you must follow the safeguards laid out in the GDPR and DPA 2018. This includes making sure you provide users with specific and easily accessible information about the automated decision-making process.
+a simple way to obtain human intervention to review, and potentially change the decision. Remember to make sure your use of automated decision-making does not conflict with any other laws or regulations.
+
+You should consider both the final decision and any automated decisions which significantly affected the decision-making process.
+

@@ -1,0 +1,78 @@
+AI has the potential to make a substantial impact for individuals, communities, and society. To make sure the impact of your AI project is positive and does not unintentionally harm those affected by it, you and your team should make considerations of AI ethics and safety a high priority.
+
+This section introduces AI ethics and provides a high-level overview of the ethical building blocks needed for the responsible delivery of an AI project.
+
+The following guidance is designed to complement and supplement the Data Ethics Framework. The Data Ethics Framework is a tool that should be used in any project.
+
+This guidance is for everyone involved in the design, production, and deployment of an AI project such as data scientists data engineers domain experts delivery managers departmental leads. 
+Ethical considerations will arise at every stage of your AI project. You should use the expertise and active cooperation of all your team members to address them.
+AI ethics is a set of values, principles, and techniques that employ widely accepted standards to guide moral conduct in the development and use of AI systems.
+
+The field of AI ethics emerged from the need to address the individual and societal harms AI systems might cause. These harms rarely arise as a result of a deliberate choice - most AI developers do not want to build biased or discriminatory applications or applications which invade users’ privacy.
+
+The main ways AI systems can cause involuntary harm are:
+
+misuse - systems are used for purposes other than those for which they were designed and intended.
+questionable design - creators have not thoroughly considered technical issues related to algorithmic bias and safety risks.
+unintended negative consequences - creators have not thoroughly considered the potential negative impacts their systems may have on the individuals and communities they affect.
+The field of AI ethics mitigates these harms by providing project teams with the values, principles, and techniques needed to produce ethical, fair, and safe AI applications. An AI model which filters out spam emails, for example, will present fewer ethical challenges than one which identifies vulnerable children. You and your team should formulate governance procedures and protocols for each project using AI, following a careful evaluation of social and ethical impacts. Establish ethical building blocks for your AI project. 
+You should establish ethical building blocks for the responsible delivery of your AI project. This involves building a culture of responsible innovation as well as a governance architecture to bring the values and principles of ethical, fair, and safe AI to life.
+
+
+Building a culture of responsible innovation.
+To build and maintain a culture of responsibility you and your team should prioritise 4 goals as you design, develop, and deploy your AI project. In particular, you should make sure your AI project is ethically permissible - consider the impacts it may have on the wellbeing of affected stakeholders and communities.
+fair and non-discriminatory - consider its potential to have discriminatory effects on individuals and social groups, mitigate biases which may influence your model’s outcome, and be aware of fairness issues throughout the design and implementation lifecycle.
+worthy of public trust - guarantee as much as possible the safety, accuracy, reliability, security, and robustness of its product.
+justifiable - prioritise the transparency of how you design and implement your model, and the justification and interpretability of its decisions and behaviours.
+Prioritising these goals will help build a culture of responsible innovation. To make sure they are fully incorporated into your project you should establish a governance architecture consisting of a framework of ethical values.
+set of actionable principles.
+process based governance framework.
+You should understand the framework of ethical values which support, underwrite, and motivate the responsible design and use of AI. The Alan Turing Institute calls these ‘the SUM Values’.
+respect the dignity of individuals.
+connect with each other sincerely, openly, and inclusively.
+care for the wellbeing of all.
+protect the priorities of social values, justice, and public interest.
+These values provide you with an accessible framework to enable you and your team members to explore and discuss the ethical aspects of AI.
+establish well-defined criteria which allow you and your team to evaluate the ethical permissibility of your AI project.
+While the SUM Values can help you consider the ethical permissibility of your AI project, they are not specifically catered to the particularities of designing, developing, and implementing an AI system.
+
+AI systems increasingly perform tasks previously done by humans. For example, AI systems can screen CVs as part of a recruitment process. However, unlike human recruiters, you cannot hold an AI system directly responsible or accountable for denying applicants a job.
+
+This lack of accountability of the AI system itself creates a need for a set of actionable principles tailored to the design and use of AI systems. The Alan Turing Institute calls these the ‘FAST Track Principles’. fairness
+accountability
+sustainability
+transparency.ensure your project is fair and prevent bias or discrimination.
+safeguard public trust in your project’s capacity to deliver safe and reliable AI.
+Fairness.
+If your AI system processes social or demographic data, you should design it to meet a minimum level of discriminatory non-harm. To do this you should:
+
+use only fair and equitable datasets (data fairness).
+include reasonable features, processes, and analytical structures in your model architecture (design fairness).
+prevent the system from having any discriminatory impact (outcome fairness).
+implement the system in an unbiased way (implementation fairness).
+
+Accountability.
+You should design your AI system to be fully answerable and auditable. To do this you should:
+
+establish a continuous chain of responsibility for all roles involved in the design and implementation lifecycle of the project.
+implement activity monitoring to allow for oversight and review throughout the entire project.
+Sustainability.
+The technical sustainability of these systems ultimately depends on their safety, including their accuracy, reliability, security, and robustness.
+
+You should make sure designers and users remain aware of
+the transformative effects AI systems can have on individuals and society.
+your AI system’s real-world impact.
+Transparency.
+Designers and implementers of AI systems should be able to
+explain to affected stakeholders how and why a model performed the way it did in a specific context.
+justify the ethical permissibility, the discriminatory non-harm, and the public trustworthiness of its outcome and of the processes behind its design and use.
+Build a process-based governance framework.
+The final method to make sure you use AI ethically, fairly, and safely is building a process-based governance framework. The Alan Turing Institute calls it a ‘PBG Framework’. Its primary purpose is to integrate the SUM Values and the FAST Track Principles across the implementation of AI within a service.
+
+Building a good PBG Framework for your AI project will provide your team with an overview of the relevant team members and roles involved in each governance action.
+the relevant stages of the workflow in which intervention and targeted consideration are necessary to meet governance goals.
+explicit timeframes for any evaluations, follow-up actions, re-assessments, and continuous monitoring.
+clear and well-defined protocols for logging activity and for implementing mechanisms to support end-to-end auditability.
+
+
+
